@@ -63,4 +63,4 @@ To improve performance, the compiler has a feature known as [short circuiting](h
 
 <img src={require('./assets/short-circuit.png').default} style={{height: '375px'}} />
 
-If you have several custom reporters nested deeply inside other blocks, the order they run in can differ between the compiler and interpreter.
+If you have several custom reporters nested deeply inside other blocks, the order they run in can differ between the compiler and interpreter!
